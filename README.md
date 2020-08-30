@@ -13,7 +13,7 @@ I'm Lalit Jarwal, a passionate Flutter and mobile app developer from Jaipur.
     <img align="left" alt="Lalit Jarwal| Instagram" width="25px" src="https://raw.githubusercontent.com/gurupawar/gurupawar/master/assets/icons/instagram.svg" />
   </a>
    <a href="https://github.com/lalitjarwal">
-    <img align="left" alt="Lalit Jarwal| Github" width="25px" src="https://raw.githubusercontent.com/gurupawar/gurupawar/master/assets/icons/github.svg" />
+    <img align="left" alt="Lalit Jarwal| Github" width="25px" src="https://raw.githubusercontent.com/gurupawar/gurupawar/master/assets/icons/github.svg" /><br/>
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=lalitjarwal&&show_icons=true">
