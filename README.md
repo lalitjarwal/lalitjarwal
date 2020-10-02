@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitjarwal" alt="lalitjarwal" /> </p>
 
-- 🔭 I’m currently working on **A e-commerce app for Farmers of India.**
+- 🔭 I’m currently working on **an e-commerce app for Farmers of India.**
 
 - 🌱 I’m currently learning **REST APIs**
 
