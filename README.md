@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an e-commerce app for Farmers of India.**
 
-- 🌱 I’m currently learning **REST APIs**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Flutter**
 
@@ -15,6 +15,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.youtube.com/channel/UCptWPtRNjNEBFQ2DQ9xsLTw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Rusty Codes" height="30" width="40" /></a>
 <a href="https://dev.to/lalitjarwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="lalitjarwal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/lalit-jarwal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="in/lalit-jarwal/" height="30" width="40" /></a>
 <a href="https://instagram.com/oyelalit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="oyelalit" height="30" width="40" /></a>
