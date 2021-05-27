@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lalitjarwal315@gmail.com**
 
-- ⚡ Fun fact **Fun fact I am a 9 to 5 developer but it's PM to AM.**
+- ⚡ Fun fact **I am a 9 to 5 developer but it's PM to AM.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
